@@ -4,8 +4,6 @@
 #include <string>
 #include <iostream>
 
-// Structura simpla pentru un obiect din inventar.
-// Numele si cantitatea pot fi copiate prin copiere obisnuita.
 struct Item {
     std::string name;
     int quantity;
