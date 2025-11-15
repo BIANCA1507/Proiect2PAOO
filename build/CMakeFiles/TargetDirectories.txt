@@ -1,0 +1,3 @@
+/home/nianca/AN4/paoo/proiect2/build/CMakeFiles/GameCharacterInventory.dir
+/home/nianca/AN4/paoo/proiect2/build/CMakeFiles/edit_cache.dir
+/home/nianca/AN4/paoo/proiect2/build/CMakeFiles/rebuild_cache.dir
